@@ -180,7 +180,7 @@ An IIFE (also known as an Immediately Invoked Function Expression) is an anonymo
 })();
 ```
 
-If we did not first wrap the function in parentheses the JavaScript intepreter would just see your code, which will not work:
+If we did not first wrap the function in parentheses the JavaScript intepreter would just see your code like this, which will not work:
 
 ```js
 function () {

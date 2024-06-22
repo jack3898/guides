@@ -1,5 +1,7 @@
 # JavaScript fundamentals: Functions
 
+_Before we begin, I recommend you read this article on GitHub, which has proper code highlighting and extra readability improvements! https://github.com/jack3898/guides/tree/main/js-fundamentals-functions_
+
 A function in JavaScript lets you assign a block of code to a variable, which you can run more than once and pass around.
 
 This guide will explain what functions are, and the many ways they can be used in any JavaScript application and reach into advanced usage of functions after the basics.

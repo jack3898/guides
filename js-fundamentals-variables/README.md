@@ -1,5 +1,7 @@
 # JavaScript fundamentals: Variables
 
+_Before we begin, I recommend you read this article on GitHub, which has proper code highlighting and extra readability improvements! https://github.com/jack3898/guides/tree/main/js-fundamentals-variables_
+
 A variable in JavaScript lets you store data and give it a name, to pass around and manipulate in your application which is why they are useful.
 
 There are three fundamental types of variables in JavaScript:

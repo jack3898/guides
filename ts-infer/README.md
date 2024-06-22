@@ -1,5 +1,7 @@
 # TypeScript's "infer" keyword
 
+_Before we begin, I recommend you read this article on GitHub, which has proper code highlighting and extra readability improvements! https://github.com/jack3898/guides/tree/main/ts-infer_
+
 This is going to be a short article that explains how the "infer" keyword is used in TypeScript.
 
 - What is it?
@@ -152,5 +154,3 @@ To recap:
 
 - Infer extracts a subtype within a complex type. For example, an object, array or function signature.
 - Infer only works with conditional types
-
-_This article and all of its imagery is open source! Spot a mistake, or just want to improve it further? Feel free to open a PR at https://github.com/jack3898/guides/tree/main/ts-infer_

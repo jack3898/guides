@@ -1,4 +1,6 @@
 {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "codesnap.backgroundColor": "transparent",
+  "codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 5px 5px"
 }
